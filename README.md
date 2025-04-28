@@ -1,4 +1,4 @@
-# Power-Grid Optimization and Visualization Tool
+# Power-Grid Optimization
 
 ## Overview  
 This project models an electrical grid, computes optimal routing and network backbones under varying conditions (distance, load demand, failure probability), and provides both static and interactive visualizations to analyze grid behavior, failure impact, edge criticality, and flow-cuts.
